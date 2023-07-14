@@ -6,5 +6,5 @@ This project is created by JavaScript React. The users can click the blog on the
 ### Clone this repository
 - Open the command terminal
 - Navigate to the file using these commands:
-    - **git clone** https://github.com/itai1998/Todo_List_Project.git
+    - **git clone** https://github.com/itai1998/React-Practice.git
     - **cd Filter-Image**
