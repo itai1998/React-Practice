@@ -19,5 +19,10 @@ This project is created by JavaScript React. The users can click the blog on the
 
 ![1](https://github.com/itai1998/React-Practice/assets/107719287/3e4aaca3-5500-48d1-abf1-7b2c2f180b01) 
 
+1. The website will show the detail of the blog that the user clicks. He or she can delete the blog by clicking the delete button.
 
+![1](https://github.com/itai1998/React-Practice/assets/107719287/1f939fb5-3594-46b0-9b4b-0f6418e4af0d)
 
+2. Users can create their blogs by clicking the "New Blog" button in the navigation bar.
+
+![1](https://github.com/itai1998/React-Practice/assets/107719287/f0877c42-5ddb-4967-b5e9-4ec2ae30624d)
