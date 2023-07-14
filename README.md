@@ -9,7 +9,15 @@ This project is created by JavaScript React. The users can click the blog on the
     - **cd react-app**
 
 ### Setting Up the Program
-- Enter "npm install json-server" to install the necessary application for the JSON server
+- Enter "npm install json-server" in the terminal to install the necessary application for the JSON server
 - Enter "npx json-server --watch data/db.json --port 8000" in the terminal to run the local port 8000
-- Enter "npm install react-router-dom@5" to install the necessary application for the react-router
+- Enter "npm install react-router-dom@5" in the terminal to install the necessary application for the react-router
+
+### Run the program
+- Enter "npm run start" in the terminal to run the program and open up the website.
+- Initially, the website will direct the user to the home page. The user can click the blogs listed on the home page to see the detail or click the "New Blog" button to create a new blog.
+
+![1](https://github.com/itai1998/React-Practice/assets/107719287/3e4aaca3-5500-48d1-abf1-7b2c2f180b01) 
+
+
 
